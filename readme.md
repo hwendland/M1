@@ -5,6 +5,7 @@
 - Zitong Zhang 6318754
 - Ramazan Özdemir 6539986
 - Hannah Wendland 5484306
+Gesamtarbeitszeit ca. 72h pro Person
 
 #### Teilprojekte (separat ausführbar)
 
@@ -55,7 +56,3 @@
         * Buttons `open` und `save` öffnen entsprechende file dialogs. 
         * Buttons `encode` und `decode` tun genau das mit dem gerade geladenen Bild und dem ausgewählten Key. 
         * Button `overlay` öffnet file dialog zum Importieren eines zweiten Bildes. 
-        
-    
-
- 
