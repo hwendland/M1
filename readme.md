@@ -20,9 +20,11 @@ Gesamtarbeitszeit ca. 72h pro Person
 ###### M1CellularAutomaton
 - Aufgabe 1 c, d, e
 - bearbeitet von Hannah 
+- Interpretation der Beispieldatei: * = alive, o = dead
 - keine bekannten Fehler
 - Anleitung: 
     * Konsolenprogramm startet bei Ausführen des Teilprojekts. 
+    * Das Ändern von Zellen verwendet 1-indexing. Beispiel: Um eine Zelle in der ersten Zeile zu ändern, muss als Zeile "1" eingegeben werden (column genauso). 
     * Speichern und importieren von Dateien immer unter Angabe von relativem/absolutem Pfad und Dateiendung (z.B. txt) 
     * Output Datei wird überschrieben oder erstellt, falls noch nicht vorhanden.
     * Relative Pfade müssen relativ zum build-Verzeichnis angegeben werden. Beispiel: Wenn build im selben Ordner liegt wie das Projekt M1, ist Zugriff auf Dateien im Ordner "states" möglich mit "../../../M1/states/<dateiname>.txt"
